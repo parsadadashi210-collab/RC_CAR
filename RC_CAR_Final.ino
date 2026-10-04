@@ -351,7 +351,7 @@ String getHtmlPage() {
 
     .steer-area {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       gap: 16px;
       align-items: center;
       justify-content: center;
